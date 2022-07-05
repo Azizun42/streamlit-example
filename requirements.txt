@@ -1,6 +1,7 @@
 altair
 pandas
 streamlit
-python-opencv
+opencv-python
 matplotlib
 numpy
+Pillow
